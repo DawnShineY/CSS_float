@@ -1,0 +1,13 @@
+.float {
+  background: rgb(184, 184, 184);
+}
+.right {
+  float: right;
+  background: rgba(46, 139, 86, 0.397);
+  border: 2px solid rgb(0, 0, 0);
+}
+.left {
+  float: left;
+  background: rgba(211, 54, 54, 0.438);
+  border: 2px solid rgb(0, 0, 0);
+}
